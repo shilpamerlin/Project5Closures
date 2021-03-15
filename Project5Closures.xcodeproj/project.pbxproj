@@ -13,6 +13,7 @@
 		8D1EA7FF25FBFB4800E64D09 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8D1EA7FD25FBFB4800E64D09 /* Main.storyboard */; };
 		8D1EA80125FBFB4B00E64D09 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8D1EA80025FBFB4B00E64D09 /* Assets.xcassets */; };
 		8D1EA80425FBFB4B00E64D09 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8D1EA80225FBFB4B00E64D09 /* LaunchScreen.storyboard */; };
+		8D1EA80D25FBFBC300E64D09 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8D1EA80C25FBFBC300E64D09 /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		8D1EA80025FBFB4B00E64D09 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8D1EA80325FBFB4B00E64D09 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8D1EA80525FBFB4B00E64D09 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8D1EA80C25FBFBC300E64D09 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		8D1EA7F625FBFB4800E64D09 /* Project5Closures */ = {
 			isa = PBXGroup;
 			children = (
+				8D1EA80C25FBFBC300E64D09 /* start.txt */,
 				8D1EA7F725FBFB4800E64D09 /* AppDelegate.swift */,
 				8D1EA7F925FBFB4800E64D09 /* SceneDelegate.swift */,
 				8D1EA7FB25FBFB4800E64D09 /* ViewController.swift */,
@@ -125,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8D1EA80425FBFB4B00E64D09 /* LaunchScreen.storyboard in Resources */,
+				8D1EA80D25FBFBC300E64D09 /* start.txt in Resources */,
 				8D1EA80125FBFB4B00E64D09 /* Assets.xcassets in Resources */,
 				8D1EA7FF25FBFB4800E64D09 /* Main.storyboard in Resources */,
 			);
